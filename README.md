@@ -1,6 +1,6 @@
 # AnatomySAM
 
-This repository for the paper "ASAM: Anatomy-encoded Segment Anything Model for Medical Images." The code will be publicly available once the paper is accepted for publication.
+This is the repository for the paper "ASAM: Anatomy-encoded Segment Anything Model for Medical Images." The code will be publicly available once the paper is accepted for publication.
 
 - [ ] **Model**
 - [ ] **Inference**
