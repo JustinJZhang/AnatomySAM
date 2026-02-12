@@ -1,6 +1,6 @@
 # AnatomySAM
 
-This is the repository for the paper "Anatomy-embedded Multimodal Segmentation Emulating Real-world Medical Imaging Process". The code and dataset will be publicly available once the paper is accepted for publication.
+This is the repository for the paper "A Foundation Model for Multimodal Medical Image Segmentation Mimicking Medical Image Formation". The code and dataset will be publicly available once the paper is accepted for publication.
 
 - [ ] **Model**
 - [ ] **Loss Functions**
